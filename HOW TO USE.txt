@@ -1,0 +1,7 @@
+HOW TO USE :
+1. Change your email in "XBALTI/Email.php" to receive the results.
+2. Change Admin Dashboard username & password in "XBALTI/Email.php"
+
+To access the admin dashboard visit www.yourwebsite.com/admin
+
+JOINS US: https://t.me/FR4UDS
